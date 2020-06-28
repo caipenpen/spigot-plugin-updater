@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Action Bar Health",
+        "resource_id": 2661,
+        "auto_update": true,
+        "path": "plugins/ActionHealth.jar"
+    },
+    {
+        "name": "APortalGun",
+        "resource_id": 75519,
+        "auto_update": true,
+        "path": "plugins/APortalGun.jar"
+    },
+    {
+        "name": "Telegram Reporter Reborn",
+        "resource_id": 80768,
+        "auto_update": true,
+        "path": "plugins/TelegramReporterReborn.jar"
+    }
+]
